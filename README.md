@@ -14,7 +14,7 @@ Leiningen/Boot
 --------------
 
 ```clojure
-[duct.logger.postal "0.0.0"]
+[duct.logger.postal "0.1.0"]
 ```
 
 Documentation

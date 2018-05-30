@@ -1,4 +1,4 @@
-(defproject duct.logger.postal "0.0.0"
+(defproject duct.logger.postal "0.1.0"
   :description "A Timbre appender that sends messages via Postal for Duct framework"
   :url "https://github.com/druids/duct.logger.postal"
   :license {:name "MIT License"
